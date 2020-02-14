@@ -1,0 +1,3 @@
+package flextime
+
+func Now() {}
