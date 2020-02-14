@@ -95,7 +95,7 @@ func getFlexTimeName(pkg *types.PkgName) string {
 	if pkg != nil {
 		return pkg.Name()
 	}
-	return "github.com/Songmu/flextime"
+	return "flextime"
 }
 
 func findImports(pass *analysis.Pass, f *ast.File) (*ast.ImportSpec, *types.PkgName) {
