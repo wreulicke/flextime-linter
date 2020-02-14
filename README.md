@@ -1,6 +1,6 @@
 ## flextime-linter
 
-flextime-linter restrict to use time package, and suggest code using [flextime](https://github.com/Songmu/flextime).
+flextime-linter restrict to use time package, and suggest code using [Songmu/flextime](https://github.com/Songmu/flextime).
 
 ## Install
 
