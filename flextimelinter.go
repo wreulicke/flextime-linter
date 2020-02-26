@@ -7,10 +7,6 @@ import (
 	"golang.org/x/tools/go/analysis"
 )
 
-type isWrapper struct{}
-
-func (f *isWrapper) AFact() {}
-
 var Analyzer = &analysis.Analyzer{
 	Name:     "flextimelinter",
 	Doc:      Doc,
