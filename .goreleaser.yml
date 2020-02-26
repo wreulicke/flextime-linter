@@ -1,6 +1,6 @@
 builds:
   - main: ./cmd/flextime-linter
-    binary: emc
+    binary: flextime-linter
     goos:
       - windows
       - darwin
